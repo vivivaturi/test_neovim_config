@@ -1,2 +1,2 @@
-# test_neovim_config
-First neovim config test
+# First Neovim Config
+First attempt at neovim config, some success but needs refactoring
